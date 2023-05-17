@@ -1,3 +1,3 @@
 # credit-risk-classification
 
-## Unsupervised Machine Learning
+### Supervised Machine Learning
